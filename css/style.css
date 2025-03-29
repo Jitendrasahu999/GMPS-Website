@@ -9952,3 +9952,17 @@ textarea.form-control {
 .owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item {
   touch-action: pan-y;
 }
+
+
+/* + sign in counter */
+.counter-plus::after {
+  content: "+";
+  display: inline;
+  margin-left: 5px;
+}
+/* th sign in counter */
+.counter-th::after {
+  content: "th";
+  display: inline;
+  margin-left: 5px;
+}

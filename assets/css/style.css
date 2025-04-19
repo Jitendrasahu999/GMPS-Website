@@ -5398,3 +5398,13 @@ Buy Now Btn
 .contact-information .contact-list {
   max-width: 400px;
 }
+
+.page-banner-area{
+  background-image: url(../img/index_page/bg_img.jpg);
+}
+.faq-image {
+  background-image: url(../img/index_page/aim&obj.jpg);
+}
+.event-area.bg-ffffff {
+  background-image: url(../img/index_page/school3.jpeg);
+}
